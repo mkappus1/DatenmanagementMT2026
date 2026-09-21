@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4"><header creationtool="ChatGPT" creationtoolversion="1.0" segtype="sentence" adminlang="en-us" srclang="de" datatype="PlainText" creationdate="20250723T144226Z" /><body><tu><tuv xml:lang="de"><seg>Willkommen zum Kurs Datenmanagement für die MT.</seg></tuv><tuv xml:lang="en"><seg>Welcome to the data management course for MT.</seg></tuv></tu>
+<tu><tuv xml:lang="de"><seg>In diesem Modul lernen Sie den Umgang mit Übersetzungsdaten.</seg></tuv><tuv xml:lang="en"><seg>In this module, you will learn how to work with translation data.</seg></tuv></tu>
+<tu><tuv xml:lang="de"><seg>Bitte öffnen Sie die Kommandozeile.</seg></tuv><tuv xml:lang="en"><seg>Please open the command line.</seg></tuv></tu>
+<tu><tuv xml:lang="de"><seg>Python ist eine beliebte Programmiersprache für Datenverarbeitung.</seg></tuv><tuv xml:lang="en"><seg>Python is a popular programming language for data processing.</seg></tuv></tu>
+<tu><tuv xml:lang="de"><seg>Wir verwenden TMX-Dateien zum Austausch von Translation Memories.</seg></tuv><tuv xml:lang="en"><seg>We use TMX files to exchange translation memories.</seg></tuv></tu>
+<tu><tuv xml:lang="de"><seg>Sie können WSL verwenden, um Linux-Tools unter Windows zu nutzen.</seg></tuv><tuv xml:lang="en"><seg>You can use WSL to run Linux tools on Windows.</seg></tuv></tu>
+<tu><tuv xml:lang="de"><seg>Erstellen Sie eine virtuelle Umgebung mit venv.</seg></tuv><tuv xml:lang="en"><seg>Create a virtual environment using venv.</seg></tuv></tu>
+<tu><tuv xml:lang="de"><seg>Laden Sie das TMX-Modul mit pip install tmx herunter.</seg></tuv><tuv xml:lang="en"><seg>Download the TMX module using pip install tmx.</seg></tuv></tu>
+<tu><tuv xml:lang="de"><seg>Vermeiden Sie Duplikate in Ihren Translation Memories.</seg></tuv><tuv xml:lang="en"><seg>Avoid duplicates in your translation memories.</seg></tuv></tu>
+<tu><tuv xml:lang="de"><seg>Sichern Sie Ihre Daten regelmässig.</seg></tuv><tuv xml:lang="en"><seg>Back up your data regularly.</seg></tuv></tu>
+</body></tmx>
