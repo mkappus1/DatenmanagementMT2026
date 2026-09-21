@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+<header creationtool="Kursbeispiel" creationtoolversion="1.0" datatype="plaintext" segtype="sentence" adminlang="de-DE" srclang="en-US" o-tmf="TMX" />
+<body>
+<tu>
+<tuv xml:lang="en-US"><seg>Please back up your files before updating the software.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Sichern Sie Ihre Dateien, bevor Sie die Software aktualisieren.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>All customer data is stored securely in the cloud.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Alle Kundendaten werden sicher in der Cloud gespeichert.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>You can access your documents from any device once they are saved to the cloud.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Sobald Ihre Dokumente in der Wolke gespeichert sind, koennen Sie von jedem Geraet darauf zugreifen.</seg></tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en-US"><seg>Our new cloud storage plan offers twice the capacity at no extra cost.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Unser neuer Cloud-Speicherplan bietet die doppelte Kapazitaet ohne Aufpreis.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The migration to the cloud will take place over the weekend.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Die Migration in die Wolke findet am Wochenende statt.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>If you have questions, please contact our support team.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Bei Fragen wenden Sie sich bitte an unser Support-Team.</seg></tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en-US"><seg>Cloud services allow small businesses to scale quickly.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Cloud-Dienste ermoeglichen es kleinen Unternehmen, schnell zu wachsen.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Employees can collaborate on shared documents stored in the cloud.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Mitarbeitende koennen an gemeinsam genutzten Dokumenten in der Wolke zusammenarbeiten.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Please enter your username and password to continue.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Bitte geben Sie Ihren Benutzernamen und Ihr Passwort ein, um fortzufahren.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>The system automatically saves a backup copy to the cloud every night.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Das System speichert jede Nacht automatisch eine Sicherungskopie in der Cloud.</seg></tuv>
+</tu>
+
+<tu>
+<tuv xml:lang="en-US"><seg>This feature is currently only available for premium subscribers.</seg></tuv>
+<tuv xml:lang="de-DE"><seg></seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Cloud computing has changed the way companies manage their infrastructure.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Cloud-Computing hat veraendert, wie Unternehmen ihre Infrastruktur verwalten.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Make sure your internet connection is stable before starting the upload.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Stellen Sie sicher, dass Ihre Internetverbindung stabil ist, bevor Sie den Upload starten.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Some regions have stricter regulations for storing data in the cloud.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Einige Regionen haben strengere Vorschriften fuer die Datenspeicherung in der Wolke.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>To reset your password, click the link below.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Um Ihr Passwort zurueckzusetzen, klicken Sie auf den untenstehenden Link.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Cloud backups are automatically encrypted for your security.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Cloud-Backups werden zu Ihrer Sicherheit automatisch verschluesselt.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Please review the release notes before installing the update.</seg></tuv>
+<tuv xml:lang="de-DE"><seg></seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-US"><seg>Switching to the cloud reduced our server maintenance costs significantly.</seg></tuv>
+<tuv xml:lang="de-DE"><seg>Der Umstieg auf die Cloud hat unsere Serverwartungskosten deutlich gesenkt.</seg></tuv>
+</tu>
+</body>
+</tmx>
